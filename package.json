@@ -1,0 +1,13 @@
+{
+  "name": "voice-based-patient-call-system-main",
+  "version": "1.0.0",
+  "description": "A state-of-the-art healthcare communication solution leveraging **voice technology**, **autonomous AI agents**, and **real-time mobile applications** to enhance patient-nurse interaction in healthcare settings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
