@@ -97,7 +97,7 @@ PORT=5000
 
 Start the backend server:
 
-bash
+
 Copy code
 npm start  
 
@@ -126,22 +126,21 @@ Contributing
 Contributions are welcome! Follow these steps:
 
 ### Fork the repository:
-bash
 Copy code
-git fork https://github.com/visuraj/VishalKumar.git
+git fork https://github.com/visuraj/Vishal_Kumar.git
 
 ### Create a new branch:
-bash
+
 Copy code
 git checkout -b feature/AmazingFeature 
 
 ### Commit your changes:
-bash
+
 Copy code
 git commit -m 'Add some AmazingFeature'  
 
 ### Push to the branch:
-bash
+
 Copy code
 git push origin feature/AmazingFeature  
 Open a pull request for review.
